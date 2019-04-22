@@ -26,4 +26,4 @@ Run the program by calling:
 
 The program should generate the output files: ``Dissolved_Oxygen_profile.png`` and ``Dissolved_Inorganic_carbon_profile.png``
 
-Test that the program has executed correctly by running: ``Make test``
+Test that the program has executed correctly by running: ``make test``
