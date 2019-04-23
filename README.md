@@ -1,6 +1,5 @@
 # amazon-continuation
-A new look at the Amazon Continuum Metagenomes
-
+A new look at the [Amazon Continuum Metagenomes project](http://amazoncontinuum.org/)
 
 Author: ``Kai Blumberg``
 
